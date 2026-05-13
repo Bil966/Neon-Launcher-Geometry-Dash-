@@ -79,9 +79,9 @@ config/
 
 ### Build:
 
-```bash
+
 cmake -S . -B build
-cmake --build build  '''
+cmake --build build  
 ---
 ### 🚀 Usage
 1. Run the launcher
@@ -95,8 +95,8 @@ Install Geode if needed
 📌 Notes
 
 Settings are stored in:
-''' bash 
-config/settings.json '''
+
+config/settings.json 
 
 ⚖ License
 
