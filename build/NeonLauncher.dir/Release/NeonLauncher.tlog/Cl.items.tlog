@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Neon Launcher\libs\imgui\imgui.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\imgui.obj
+C:\Users\DELL\Desktop\Neon Launcher\libs\imgui\imgui_demo.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\imgui_demo.obj
+C:\Users\DELL\Desktop\Neon Launcher\libs\imgui\imgui_draw.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\imgui_draw.obj
+C:\Users\DELL\Desktop\Neon Launcher\libs\imgui\imgui_impl_glfw.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\imgui_impl_glfw.obj
+C:\Users\DELL\Desktop\Neon Launcher\libs\imgui\imgui_impl_opengl3.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\imgui_impl_opengl3.obj
+C:\Users\DELL\Desktop\Neon Launcher\libs\imgui\imgui_tables.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\imgui_tables.obj
+C:\Users\DELL\Desktop\Neon Launcher\libs\imgui\imgui_widgets.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\imgui_widgets.obj
+C:\Users\DELL\Desktop\Neon Launcher\src\launcher.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\launcher.obj
+C:\Users\DELL\Desktop\Neon Launcher\src\main.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\main.obj
+C:\Users\DELL\Desktop\Neon Launcher\src\process.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\process.obj
+C:\Users\DELL\Desktop\Neon Launcher\src\settings.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\settings.obj
+C:\Users\DELL\Desktop\Neon Launcher\src\ui\ui.cpp;C:\Users\DELL\Desktop\Neon Launcher\build\NeonLauncher.dir\Release\ui.obj

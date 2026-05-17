@@ -1,0 +1,3 @@
+C:/Users/DELL/Desktop/Neon Launcher/build/CMakeFiles/NeonLauncher.dir
+C:/Users/DELL/Desktop/Neon Launcher/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/Desktop/Neon Launcher/build/CMakeFiles/ZERO_CHECK.dir
